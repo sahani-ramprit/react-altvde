@@ -17,7 +17,7 @@ export default function HomePage() {
             text: "Dhanai Fruits Mart",
             image:
               "https://res.cloudinary.com/rps-technologies/image/upload/v1613821135/logo/logo-pied-piper-white.png",
-            width: "32"
+            width: "120"
           },
           link1: "Home",
           link2: "Product",
